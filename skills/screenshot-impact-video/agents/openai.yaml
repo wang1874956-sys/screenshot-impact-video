@@ -1,0 +1,4 @@
+interface:
+  display_name: "图片冲击动效"
+  short_description: "把截图和现实照片做成动态视频，编排分层、光效、不规则运动与镜头变化"
+  default_prompt: "使用 $screenshot-impact-video，将这张图片制作成具有不规则动效和镜头变化的视频。"
